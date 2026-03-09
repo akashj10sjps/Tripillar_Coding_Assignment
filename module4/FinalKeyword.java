@@ -7,7 +7,7 @@ public class FinalKeyword {
         System.out.println("x remains constant: "+x);
         final StringBuilder s=new StringBuilder("hello");
         System.out.println("initial message:"+s);
-        s.append("AKash");
+        s.append("Akash");
         System.out.println("modified message"+s);
     }
 }
